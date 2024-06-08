@@ -14,7 +14,7 @@
 - Eager to collaborate on open-source projects and innovative solutions
 
 📫 **Reach me**:
-- [LinkedIn](https://www.linkedin.com/in/fahim-kaidawala)
+- [LinkedIn](www.linkedin.com/in/fahim-kaidawala-76bb801a3)
 
 🏆 **Education**:
 - Bachelor of Computer & Information Sciences (Software Development) from Auckland University of Technology
