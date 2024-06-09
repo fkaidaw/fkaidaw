@@ -1,6 +1,6 @@
 # Hi there, I'm Fahim Kaidawala 👋
 
-💻 Aspiring Software Developer | Transitioning from Customer-Focused Roles to Tech
+### 💻 Aspiring Software Developer | Transitioning from Customer-Focused Roles to Tech
 
 ### 🛠️ Skills:
 - **Programming Languages**: C++, Java, Python, JavaScript
